@@ -10,6 +10,8 @@ Amateur DNS Engineer
 
 [LinkedIn](https://www.linkedin.com/in/kimitoboku/)
 
+[Scrapbox](https://scrapbox.io/Nodewww/kimitoboku)
+
 ### interest
 
 #### DNS
