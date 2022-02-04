@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Kento KAWAKAMi
 
-You can use the [editor on GitHub](https://github.com/kimitoboku/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Amateur DNS Engineer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Blog](https://blog.techack.net/)
 
-### Markdown
+[Knowledge](https://memo.techack.net/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Github](https://github.com/kimitoboku/)
 
-```markdown
-Syntax highlighted code block
+[LinkedIn](https://www.linkedin.com/in/kimitoboku/)
 
-# Header 1
-## Header 2
-### Header 3
+### interest
 
-- Bulleted
-- List
+#### DNS
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### Linux
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Networking
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimitoboku/home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### materials
+- [Refresh DNS Infrastructure with Modern Datacenter Network - Speaker Deck](https://speakerdeck.com/line_developers/refresh-dns-infrastructure-with-modern-datacenter-network)
+- [Dockerで始めるネットワーク実験入門(OSC名古屋)](https://docs.google.com/presentation/d/14nX2iE6Up4jKBw8BnXm8AjIc-CaTUpeMVfyIwINeldY/edit?usp=sharing)
+- [How to use eBPF for application statistics in Linux (openSUSE.Asia Summit 2019)](https://docs.google.com/presentation/d/1xWuNArSzEtZMvWElvfKM-dA89pXV7eReiNr_PQ9W2XM/edit?usp=sharing)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
