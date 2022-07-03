@@ -4,7 +4,7 @@ Amateur DNS Engineer
 
 kimitoboku@techack.net
 
-[Blog](https://blog.techack.net/) / [Knowledge](https://memo.techack.net/) / [Github](https://github.com/kimitoboku/) / [LinkedIn](https://www.linkedin.com/in/kimitoboku/) / [Scrapbox](https://scrapbox.io/Nodewww/kimitoboku)
+[Blog](https://blog.techack.net/) / [Knowledge](https://memo.techack.net/) / [Github](https://github.com/kimitoboku/) / [LinkedIn](https://www.linkedin.com/in/kimitoboku/) / [Scrapbox](https://scrapbox.io/Nodewww/kimitoboku) / [Diary](https://scrapbox.io/bokuhakimi/)
 
 ### Interest
 
