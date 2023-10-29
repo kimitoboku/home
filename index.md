@@ -4,7 +4,7 @@ Amateur DNS Engineer
 
 kimitoboku@techack.net
 
-[Blog](https://blog.techack.net/) / [Knowledge](https://memo.techack.net/) / [Github](https://github.com/kimitoboku/) / [LinkedIn](https://www.linkedin.com/in/kimitoboku/) / [Scrapbox](https://scrapbox.io/Nodewww/kimitoboku) / [Diary](https://scrapbox.io/bokuhakimi/) / [Mastodon](https://fla.red/@kimitoboku) / [BlueSky](https://bsky.app/profile/kimitoboku.techack.net) / (Strava)[https://www.strava.com/athletes/kawakami_kento] / (Booklog)[https://booklog.jp/users/kkawakami]  / (filmarks)[https://filmarks.com/users/kawakami_kento]
+[Blog](https://blog.techack.net/) / [Knowledge](https://memo.techack.net/) / [Github](https://github.com/kimitoboku/) / [LinkedIn](https://www.linkedin.com/in/kimitoboku/) / [Scrapbox](https://scrapbox.io/Nodewww/kimitoboku) / [Diary](https://scrapbox.io/bokuhakimi/) / [Mastodon](https://fla.red/@kimitoboku) / [BlueSky](https://bsky.app/profile/kimitoboku.techack.net) / [Strava](https://www.strava.com/athletes/kawakami_kento) / (Booklog)[https://booklog.jp/users/kkawakami]  / (filmarks)[https://filmarks.com/users/kawakami_kento]
 
 ### Interest
 
